@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: ADREY DEVYATKIN
     subtitle: >-
-      
+      CI/CD. DevSecOps. Cloud infrastructure.
     actions:
       - label: Learn More
         url: /features
