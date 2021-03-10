@@ -53,7 +53,7 @@ sections:
           User Group Las Palmas de Gran Canaria).
         align: left
         image: images/about-min-768x512.jpg
-        image_alt: About Andrey
+        image_alt: About Andrey Devyatkin
         image_position: right
         actions:
           - label: Learn More
