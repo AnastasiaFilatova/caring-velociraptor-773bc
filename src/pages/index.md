@@ -3,8 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: ADREY DEVYATKIN
-    subtitle: >-
-      CI/CD. DevSecOps. Cloud infrastructure.
+    subtitle: CI/CD. DevSecOps. Cloud infrastructure.
     actions:
       - label: Learn More
         url: /features
@@ -25,7 +24,7 @@ sections:
   - type: features_section
     title: Features
     features:
-      - title: Feature 1
+      - title: About Andrey
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
