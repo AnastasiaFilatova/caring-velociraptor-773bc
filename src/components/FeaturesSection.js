@@ -11,7 +11,7 @@ export default class FeaturesSection extends React.Component {
             <section className="section section--features">
               {_.get(section, 'title', null) && (
               <div className="container container--md align-center">
-                
+            
               </div>
               )}
               <div className="container container--lg">
