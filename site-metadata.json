@@ -28,7 +28,8 @@
                 "url": "/contact",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo": "images/FXLBADGE_TEAM-01-old-style-768x887.png"
     },
     "footer": {
         "has_nav": true,
