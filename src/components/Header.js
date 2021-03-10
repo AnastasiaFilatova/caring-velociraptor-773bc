@@ -10,11 +10,7 @@ export default class Header extends React.Component {
             <header className="site-header">
               <div className="container container--lg">
                 <nav className="navbar" aria-label="Main Navigation">
-                  <Link className="sr-only" to="#content">Skip to main content</Link>
-                  {_.get(this.props, 'pageContext.site.siteMetadata.header.logo', null) ? (
-                  <Link className="navbar__logo" to={withPrefix('/')}><img src={withPrefix(_.get(this.props, 'pageContext.site.siteMetadata.header.logo', null))} alt={_.get(this.props, 'pageContext.site.siteMetadata.header.logo_alt', null)} /></Link>
-                  ) : 
-                  <Link className="h4 navbar__title" to={withPrefix('/')}>{_.get(this.props, 'pageContext.site.siteMetadata.header.title', null)}</Link>
+                  
                   }
                   {_.get(this.props, 'pageContext.site.siteMetadata.header.has_nav', null) && (<React.Fragment>
                   <button aria-label="Menu" className="btn btn--icon btn--clear navbar__menu-btn js-nav-toggle">
