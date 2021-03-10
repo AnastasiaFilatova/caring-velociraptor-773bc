@@ -34,7 +34,7 @@ export default class HeroSection extends React.Component {
                       <p>{_.get(section, 'subtitle', null)}</p>
                     </div>
                     )}
-                    <hr>
+                    
                   </div>
                 </div>
               </div>
