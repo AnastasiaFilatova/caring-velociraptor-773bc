@@ -54,7 +54,7 @@ sections:
         align: left
         image: images/about-min-768x512.jpg
         image_alt: About Andrey Devyatkin
-        image_position: right
+        image_position: left
         actions:
           - label: Learn More
             url: /features
