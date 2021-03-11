@@ -61,17 +61,23 @@ sections:
           \- AWS infrastructure architecture - evolving existing or building
           from the ground up
 
+
           \- Immutable Could infrastructure using HashiCorp Packer and HashiCorp
           Terraform
 
+
           \- Orchestrating applications using AWS ECS/Kubernetes/HashiCorp Nomad
+
 
           \- Infrastructure and application secret management using HashiCorp
           Vault
 
+
           \- Cloud infrastructure and application security
 
+
           \- Compliance in the Cloud environments
+
 
           \- Building and scaling Continuous Integration and Continuous Delivery
           pipelines using Jenkins
