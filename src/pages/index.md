@@ -86,7 +86,7 @@ sections:
         image_position: left
         actions:
           - label: Contact
-            url: /features
+            url: '#contact'
             style: secondary
       - title: Feature 3
         content: >-
