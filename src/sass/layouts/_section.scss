@@ -4,7 +4,11 @@
 .section {
   margin-bottom: 3.75rem;
   min-height: 100vh;
-  background: 
+  background-size: cover;
+          background-position: center;
+          background: url("/images/landing.jpg") rgba(51, 51, 51);
+          background-blend-mode: multiply;
+          color: white;
 
   &:first-child {
     padding-top: 3.75rem;
