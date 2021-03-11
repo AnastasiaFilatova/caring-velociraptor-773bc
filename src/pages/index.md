@@ -57,10 +57,23 @@ sections:
         image_position: right
         actions: []
       - title: Specialities
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          AWS infrastructure architecture - evolving existing or building from
+          the ground up
+
+          Immutable Could infrastructure using HashiCorp Packer and HashiCorp
+          Terraform
+
+          Orchestrating applications using AWS ECS/Kubernetes/HashiCorp Nomad
+
+          Infrastructure and application secret management using HashiCorp Vault
+
+          Cloud infrastructure and application security
+
+          Compliance in the Cloud environments
+
+          Building and scaling Continuous Integration and Continuous Delivery
+          pipelines using Jenkins
         align: left
         image: images/consulting_main-768x515.png
         image_alt: Feature 2 placeholder image
