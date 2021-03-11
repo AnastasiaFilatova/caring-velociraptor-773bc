@@ -88,7 +88,7 @@ sections:
           - label: Contact
             url: '#contact'
             style: secondary
-            new_window: true
+            new_window: false
       - title: Feature 3
         content: >-
           Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
