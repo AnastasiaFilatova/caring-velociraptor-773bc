@@ -90,10 +90,40 @@ sections:
             style: secondary
             new_window: false
       - title: Presentations
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+        content: >
+          Why I do not recommend people learning Ansible? (DevOoops Piter 2020)
+
+
+          Vault Configuration as Code via Terraform: Stories from Trenches
+          (DevOpsPro Moscow 2019, HashiTalks 2020, DevOpsDays Madrid 2020,
+          DevOpsPro EU 2020, HashiConf Digital EU 2020)
+
+
+          Integrating HashiCorp Vault and Kubernetes apps (HashiTalks 2019)
+
+
+          Getting Git Right (GitMerge 2018)
+
+
+          Introduction to Continuous Delivery (RemoteForeverSummit 2017)
+
+
+          Patterns of Continuous Delivery (Continuous Delivery Conference
+          Stockholm 2017)
+
+
+          Jenkins as Code (Day of Jenknis 2017 Oslo, Day of Jenknis 2017
+          Gothenburg)
+
+
+          Buffer or suffer? Growth pain of Continuous Delivery pipelines and
+          what to do about it (Continuous Delivery Conference Stockholm 2016)
+
+
+          List does not include numerous presentations at meetups and private
+          presentations given upon request[
+
+          ](https://andreydevyatkin.com/#contact)
         align: left
         image: images/feature.svg
         image_alt: Feature 3 placeholder image
