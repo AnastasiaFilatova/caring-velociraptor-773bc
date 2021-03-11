@@ -128,7 +128,13 @@ sections:
         image: images/public-speaking_main-768x512.jpg
         image_alt: Feature 3 placeholder image
         image_position: right
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            new_window: false
+            no_follow: false
+            type: action
   - type: blog_feed_section
     title: Certificates
     show_recent: true
