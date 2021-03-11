@@ -122,7 +122,9 @@
   .section__title {
       color: white;
   }
-  .section__copy
+  .section__copy {
+      line-height: 1.7em;
+  }
 }
 
 .section__copy {
