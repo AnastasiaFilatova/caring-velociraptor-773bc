@@ -56,7 +56,7 @@ sections:
         image_alt: About Andrey Devyatkin
         image_position: right
         actions: []
-      - title: Feature 2
+      - title: Specialities
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
