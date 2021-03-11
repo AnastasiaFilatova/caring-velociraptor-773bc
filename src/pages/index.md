@@ -89,7 +89,7 @@ sections:
             url: '#contact'
             style: secondary
             new_window: false
-      - title: Public speaking
+      - title: Presentations
         content: >-
           Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
           eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
