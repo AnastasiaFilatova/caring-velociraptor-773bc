@@ -129,7 +129,7 @@ sections:
         image_alt: Feature 3 placeholder image
         image_position: right
         actions:
-          - label: tcatnoC
+          - label: Contact
             url: '#'
             style: link
             new_window: false
