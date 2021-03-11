@@ -27,7 +27,7 @@ sections:
       - title: About Andrey
         content: >
           Independent consultant specialized in building secure application
-          delivery platforms on AWS using HashiStack and Kubernetes\<br>
+          delivery platforms on AWS using HashiStack and Kubernetes.
 
           AWS architect (6x certifications)
 
