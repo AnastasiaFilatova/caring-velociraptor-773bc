@@ -125,7 +125,7 @@ sections:
 
           ](https://andreydevyatkin.com/#contact)
         align: left
-        image: images/feature.svg
+        image: images/public-speaking_main-768x512.jpg
         image_alt: Feature 3 placeholder image
         image_position: right
         actions: []
