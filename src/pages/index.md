@@ -131,7 +131,7 @@ sections:
         actions:
           - label: Contact
             url: '#contact'
-            style: link
+            style: secondary
             new_window: false
             no_follow: false
             type: action
