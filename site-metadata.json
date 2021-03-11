@@ -5,7 +5,8 @@
         "nav_links": [
             {
                 "label": "Public speaking",
-                "style": "link"
+                "style": "link",
+                "url": "#p"
             },
             {
                 "label": "Consulting",
