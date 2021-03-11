@@ -24,7 +24,7 @@ sections:
   - type: features_section
     title: Features
     features:
-      - title: About Andrey
+      - title: About
         content: >
           Independent consultant specialized in building secure application
           delivery platforms on AWS using HashiStack and Kubernetes.
