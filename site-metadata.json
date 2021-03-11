@@ -5,7 +5,6 @@
         "nav_links": [
             {
                 "label": "Public speaking",
-                "url": "/features",
                 "style": "link"
             },
             {
