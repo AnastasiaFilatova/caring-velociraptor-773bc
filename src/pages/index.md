@@ -130,7 +130,7 @@ sections:
         image_position: right
         actions:
           - label: Contact
-            url: '#'
+            url: '#contact'
             style: link
             new_window: false
             no_follow: false
