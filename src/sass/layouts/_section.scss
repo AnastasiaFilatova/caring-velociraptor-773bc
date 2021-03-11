@@ -77,7 +77,8 @@
 
 .hero,
 .section--features {
-    
+    background-size: cover;
+          background-position: center;
     background: url("/images/section_image.jpg") rgba(51, 51, 51, 0.8);
     background-blend-mode: multiply;
     color: white;
