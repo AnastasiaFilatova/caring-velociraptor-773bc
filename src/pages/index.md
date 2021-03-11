@@ -58,28 +58,27 @@ sections:
         actions: []
       - title: Specialities
         content: >
-          \- AWS infrastructure architecture - evolving existing or building
-          from the ground up
+          AWS infrastructure architecture - evolving existing or building from
+          the ground up
 
 
-          \- Immutable Could infrastructure using HashiCorp Packer and HashiCorp
+          Immutable Could infrastructure using HashiCorp Packer and HashiCorp
           Terraform
 
 
-          \- Orchestrating applications using AWS ECS/Kubernetes/HashiCorp Nomad
+          Orchestrating applications using AWS ECS/Kubernetes/HashiCorp Nomad
 
 
-          \- Infrastructure and application secret management using HashiCorp
-          Vault
+          Infrastructure and application secret management using HashiCorp Vault
 
 
-          \- Cloud infrastructure and application security
+          Cloud infrastructure and application security
 
 
-          \- Compliance in the Cloud environments
+          Compliance in the Cloud environments
 
 
-          \- Building and scaling Continuous Integration and Continuous Delivery
+          Building and scaling Continuous Integration and Continuous Delivery
           pipelines using Jenkins
         align: left
         image: images/consulting_main-768x515.png
