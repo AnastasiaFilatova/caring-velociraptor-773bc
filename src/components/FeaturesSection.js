@@ -20,7 +20,7 @@ export default class FeaturesSection extends React.Component {
                   <div className="section__body cell">
                     {_.get(feature, 'title', null) && (
                       _.get(section, 'title', null) ? (
-                      <a className="section__title" name={_.get(feature, 'title', null)}>{_.get(feature, 'title', null)}</>
+                      <h3 className="section__title">{_.get(feature, 'title', null)}</h3>
                       ) : 
                       <h2 className="section__title">{_.get(feature, 'title', null)}</h2>
                     )}
