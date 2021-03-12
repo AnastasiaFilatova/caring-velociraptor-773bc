@@ -59,7 +59,8 @@ export default class Body extends React.Component {
                       <h3 className="section__title"><div id="">Title</div></h3>
                   </div>
                   </div>
-                  
+                  </div>
+
                   </main>
                   <Footer {...this.props} />
                 </div>
