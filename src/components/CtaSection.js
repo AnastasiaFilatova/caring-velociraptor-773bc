@@ -20,7 +20,7 @@ export default class CtaSection extends React.Component {
                       <p>{_.get(section, 'subtitle', null)}</p>
                     </div>
                     )}
-                    <img src="/images/">
+                    <img src="/images/atlas_copco.png" alt="bla bla ">
                     {_.get(section, 'actions', null) && (
                     <div className="section__actions btn-group">
                       <SectionActions {...this.props} actions={_.get(section, 'actions', null)} />
