@@ -31,7 +31,7 @@ export default class CtaSection extends React.Component {
                     </div>
                     )}
                   </div>
-                  
+
                   <div className="container container--md">
                     {_.get(section, 'title', null) && (
                     <h2 className="section__title">{_.get(section, 'title', null)}</h2>
@@ -41,6 +41,7 @@ export default class CtaSection extends React.Component {
                       <p>{_.get(section, 'subtitle', null)}</p>
                     </div>
                     )}
+                    <img src={withPrefix(_.get(item, 'image', null))} alt={_.get(item, 'image_alt', null)}
                     <img src="/images/AWS-SolArchitect-Associate.png" alt="AWS-SolArchitect-Associate certificate" />
                     <img src="/images/AWS-Developer-Associate.png" alt="AWS-Developer-Associate certificate" />
                     <img src="/images/AWS-SysOpAdmin-Associate.png" alt="AWS-SysOpAdmin-Associate certificate" /><br />
