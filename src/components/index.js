@@ -9,6 +9,8 @@ import ContentSection from './ContentSection';
 import CtaSection from './CtaSection';
 import FeaturesSection from './FeaturesSection';
 import Footer from './Footer';
+import GridItem from './GridItem';
+import GridSection from './GridSection';
 import Header from './Header';
 import HeroSection from './HeroSection';
 import SectionActions from './SectionActions';
