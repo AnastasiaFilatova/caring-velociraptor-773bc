@@ -33,7 +33,7 @@ export default class CtaSection extends React.Component {
                   </div>
 
                   <div className="container container--md">
-                    {_.get(section, 'title', null) && (
+                    
                     <h2 className="section__title">{_.get(section, 'title', null)}</h2>
                     )}
                     <img src="/images/atlas_copco.png" alt="atlas_copco customer" />
