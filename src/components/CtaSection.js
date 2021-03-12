@@ -40,7 +40,7 @@ export default class CtaSection extends React.Component {
                     <img src="/images/ppraqma.png" alt="praqma customer" />
                     <img src="/images/atlas_copco.png" alt="atlas_copco customer" /><br />
                     <img src="/images/volvo.png" alt="volvo customer" />
-                    <img src="/images/ericsson.png" alt="atlas_copco customer" />
+                    <img src="/images/ericsson.png" alt="ericsson customer" />
                     
                     {_.get(section, 'actions', null) && (
                     <div className="section__actions btn-group">
