@@ -58,7 +58,7 @@ export default class Body extends React.Component {
                   <div className="section__body cell">
                       <h3 className="section__title"><div id="">Title</div></h3>
                      
-                      <h2 className="section__title">{_.get(feature, 'title', null)}</h2>
+                      <h2 className="section__title">Title</h2>
                    
                     {_.get(feature, 'content', null) && (
                     <div className="section__copy">
