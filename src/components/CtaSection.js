@@ -43,7 +43,7 @@ export default class CtaSection extends React.Component {
                     )}
                     <img src="/images/atlas_copco.png" alt="atlas_copco customer" />
                     <img src="/images/atlas_copco.png" alt="atlas_copco customer" />
-                    <img src="/images/atlas_copco.png" alt="atlas_copco customer" />
+                    <img src="/images/atlas_copco.png" alt="atlas_copco customer" /><br />
                     <img src="/images/atlas_copco.png" alt="atlas_copco customer" />
                     <img src="/images/atlas_copco.png" alt="atlas_copco customer" />
                     
