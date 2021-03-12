@@ -27,8 +27,6 @@ export {
     CtaSection,
     FeaturesSection,
     Footer,
-    GridItem,
-    GridSection,
     Header,
     HeroSection,
     SectionActions,
