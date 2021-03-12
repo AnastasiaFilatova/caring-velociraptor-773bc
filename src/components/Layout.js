@@ -55,7 +55,7 @@ export default class Body extends React.Component {
                         <h2>Hello</h2>
                     </div>
                  
-                  <div className="section__body cell">
+                    <div className="section__body cell">
                       <h3 className="section__title"><div id="">Title</div></h3>
                   </div>
                   </div>
