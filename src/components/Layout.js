@@ -45,7 +45,6 @@ export default class Body extends React.Component {
                   <Header {...this.props} />
                   <main id="content" className="site-content">
                     {this.props.children}
-                    <GridSection {...this.props} />
                   </main>
                   <Footer {...this.props} />
                 </div>
