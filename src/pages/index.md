@@ -136,7 +136,7 @@ sections:
             no_follow: false
             type: action
   - type: cta_section
-    title: Certificates
+    title: Some of the happy customers
     actions: []
     has_background: true
     background_color: gray
