@@ -135,15 +135,15 @@ sections:
             new_window: false
             no_follow: false
             type: action
+  - type: blog_feed_section
+    title: Public speaking
+    show_recent: true
+    recent_count: 3
   - type: cta_section
     title: Certificates
     actions: []
     has_background: true
     background_color: gray
-  - type: blog_feed_section
-    title: Public speaking
-    show_recent: true
-    recent_count: 3
 seo:
   title: Stackbit Starter Theme
   description: The preview of the Starter theme
