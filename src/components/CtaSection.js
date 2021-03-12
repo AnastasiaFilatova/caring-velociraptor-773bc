@@ -22,7 +22,7 @@ export default class CtaSection extends React.Component {
                     )}
                     <img src="/images/AWS-SolArchitect-Associate.png" alt="AWS-SolArchitect-Associate certificate" />
                     <img src="/images/AWS-Developer-Associate.png" alt="AWS-Developer-Associate certificate" />
-                    <img src="/images/AWS-SysOpAdmin-Associate.png" alt="AWS-SysOpAdmin-Associate certificate" /><br>
+                    <img src="/images/AWS-SysOpAdmin-Associate.png" alt="AWS-SysOpAdmin-Associate certificate" /><br />
                     <img src="/images/AWS-Security-Specialty.png" alt="AWS-Security-Specialty certificate" />
                     <img src="/images/Terraform-Associate-Badge.png" alt="Terraform-Associate-Badge png" />
                     {_.get(section, 'actions', null) && (
