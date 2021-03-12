@@ -60,7 +60,7 @@ export default class Body extends React.Component {
                      
                     
                    
-                    {_.get(feature, 'content', null) && (
+                   
                     <div className="section__copy">
                       {markdownify(_.get(feature, 'content', null))}
                     </div>
