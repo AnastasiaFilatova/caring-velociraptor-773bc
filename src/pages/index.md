@@ -141,9 +141,6 @@ sections:
     recent_count: 3
   - type: cta_section
     title: Some of the happy customers
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
     actions:
       - label: Learn More
         url: /features
