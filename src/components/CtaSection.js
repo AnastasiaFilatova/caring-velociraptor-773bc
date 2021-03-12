@@ -35,7 +35,7 @@ export default class CtaSection extends React.Component {
                   <div className="container container--md">
                     
                     <h2 className="section__title"></h2>
-                    )}
+                    
                     <img src="/images/atlas_copco.png" alt="atlas_copco customer" />
                     <img src="/images/atlas_copco.png" alt="atlas_copco customer" />
                     <img src="/images/atlas_copco.png" alt="atlas_copco customer" /><br />
