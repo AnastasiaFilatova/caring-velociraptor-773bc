@@ -42,10 +42,7 @@ export default class CtaSection extends React.Component {
                     </div>
                     )}
                     <img src="/images/atlas_copco.png" alt="atlas_copco customer" />
-                    <img src="/images/AWS-Developer-Associate.png" alt="AWS-Developer-Associate certificate" />
-                    <img src="/images/AWS-SysOpAdmin-Associate.png" alt="AWS-SysOpAdmin-Associate certificate" /><br />
-                    <img src="/images/AWS-Security-Specialty.png" alt="AWS-Security-Specialty certificate" />
-                    <img src="/images/Terraform-Associate-Badge.png" alt="Terraform-Associate-Badge png" />
+                    
                     {_.get(section, 'actions', null) && (
                     <div className="section__actions btn-group">
                       <SectionActions {...this.props} actions={_.get(section, 'actions', null)} />
