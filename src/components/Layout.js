@@ -52,7 +52,7 @@ export default class Body extends React.Component {
                 
                 <div className="section container">
                   <div className="cell section__media">
-                    <img src="" alt={_.get(feature, 'image_alt', null)} />
+                    <img src="" alt="" />
                   </div>
                   )}
                   <div className="section__body cell">
