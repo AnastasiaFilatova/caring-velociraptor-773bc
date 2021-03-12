@@ -6,6 +6,7 @@ import {withPrefix, attribute} from '../utils';
 import '../sass/main.scss';
 import Header from './Header';
 import Footer from './Footer';
+import 
 
 export default class Body extends React.Component {
     render() {
