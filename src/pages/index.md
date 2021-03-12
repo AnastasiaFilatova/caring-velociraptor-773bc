@@ -141,7 +141,7 @@ sections:
     has_background: true
     background_color: gray
   - type: blog_feed_section
-    title: Certificates
+    title: Public speaking
     show_recent: true
     recent_count: 3
 seo:
