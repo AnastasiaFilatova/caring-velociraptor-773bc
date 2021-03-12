@@ -140,7 +140,7 @@ sections:
     show_recent: true
     recent_count: 3
   - type: cta_section
-    title: Happy customers
+    title: Some of the happy customers
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
