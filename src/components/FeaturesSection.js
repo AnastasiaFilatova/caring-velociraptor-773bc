@@ -9,6 +9,9 @@ export default class FeaturesSection extends React.Component {
         let section = _.get(this.props, 'section', null);
         return (
             <section className="section section--features">
+                <div className="container container--md align-center">
+                <h2 className="section__title">{_.get(section, 'title', null)}</h2>
+              </div>
               <div className="container container--lg">
                 {_.map(_.get(section, 'features', null), (feature, feature_idx) => (
                 <div key={feature_idx} className={classNames('flex', 'flex--middle', 'flex--center', 'flex--col-2', {'align-center': _.get(feature, 'align', null) === 'center', 'align-right': _.get(feature, 'align', null) === 'right'})}>
