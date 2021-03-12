@@ -29,6 +29,16 @@ export default class Page extends React.Component {
                 </div>
               </div>
             </article>
+            <article className="page py-5 py-sm-6">
+            	<div className="container container--medium">
+            		<header className="page__header">
+            			<h1 className="page__title">{_.get(this.props, 'page.frontmatter.title', null)}</h1>
+            		</header>
+            		<div className="page__body text-block">
+            			{markdownify(_.get(this.props, 'page.markdown', null))}
+            		</div>
+            	</div>
+            </article>
             </Layout>
         );
     }
