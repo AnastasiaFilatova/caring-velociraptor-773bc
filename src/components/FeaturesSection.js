@@ -39,9 +39,6 @@ export default class FeaturesSection extends React.Component {
                 ))}
               </div>
             </section>
-            <section>
-
-            </section>
         );
     }
 }
