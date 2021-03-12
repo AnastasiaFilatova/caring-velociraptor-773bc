@@ -50,10 +50,10 @@ export default class Body extends React.Component {
 
                 <div className="container container--lg">
                 
-                <div className="section container">
-                  <div className="cell section__media">
-                    <h2>Hello</h2>
-                  </div>
+                    <div className="section container">
+                    <div className="cell section__media">
+                        <h2>Hello</h2>
+                    </div>
                  
                   <div className="section__body cell">
                       <h3 className="section__title"><div id="">Title</div></h3>
