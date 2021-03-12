@@ -48,7 +48,7 @@ export default class Body extends React.Component {
 
 
 
-                    <div className="container container--lg">
+                <div className="container container--lg">
                 
                 <div className="section container">
                   <div className="cell section__media">
