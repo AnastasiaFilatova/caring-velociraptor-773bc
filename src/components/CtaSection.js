@@ -23,7 +23,7 @@ export default class CtaSection extends React.Component {
                     <img src="/images/AWS-SolArchitect-Associate.png" alt="AWS-SolArchitect-Associate certificate
                     " />
                     <img src="/images/AWS-Developer-Associate.png" alt="AWS-Developer-Associate certificate" />
-                    <img src="/images/AWS-SysArchitect-Associate.png" alt="atlas copco" />
+                    <img src="/images/AWS-SysOps-Associate.png" alt="atlas copco" />
                     <img src="/images/atlas_copco.png" alt="atlas copco" />
                     <img src="/images/atlas_copco.png" alt="atlas copco" />
                     <img src="/images/atlas_copco.png" alt="atlas copco" />
