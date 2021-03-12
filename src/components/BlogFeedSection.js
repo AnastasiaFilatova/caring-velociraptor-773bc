@@ -34,20 +34,6 @@ export default class BlogFeedSection extends React.Component {
                     <iframe width="560" height="315" src="https://www.youtube.com/embed/1UJdzpEr3rg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     <iframe width="560" height="315" src="https://www.youtube.com/embed/hvQeWJSDwkE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     <iframe width="560" height="315" src="https://www.youtube.com/embed/JpkJDvhXkrE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                  {_.map(posts_sorted, (post, post_idx) => {
-                      let is_post = false;
-                      if ((_.get(post, 'frontmatter.template', null) === 'post')) {
-                           is_post = true;
-                      }
-                      return (<React.Fragment key={post_idx + '.1'}>
-                        {(is_post && ((show_recent === false) || (post_count < recent_count))) && ((() => {
-                             post_count = post_count + 1;
-                            return (
-                              <BlogFeedItemFilter key={post_idx} {...this.props} blog_feed_section={section} post_page={post} section_author={section_author} section_category={section_category} />
-                            );
-                        })())}
-                      </React.Fragment>)
-                  })}
                 </div>
               </div>
             </section>
