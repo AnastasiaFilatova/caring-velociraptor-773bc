@@ -20,8 +20,7 @@ export default class CtaSection extends React.Component {
                       <p>{_.get(section, 'subtitle', null)}</p>
                     </div>
                     )}
-                    <img src="/images/AWS-SolArchitect-Associate.png" alt="AWS-SolArchitect-Associate certificate
-                " />
+                    <img src="/images/AWS-SolArchitect-Associate.png" alt="AWS-SolArchitect-Associate certificate" />
                     <img src="/images/AWS-Developer-Associate.png" alt="AWS-Developer-Associate certificate" />
                     <img src="/images/AWS-SysOpsAdmin-Associate.png" alt="AWS-SysOpsAdmin-Associate certificate" />
                     <img src="/images/AWS-security-Specialty" alt="AWS-security-Specialty certificate" />
