@@ -140,7 +140,7 @@ sections:
     show_recent: true
     recent_count: 3
   - type: cta_section
-    title: Some of the happy customers
+    title: Certificates
     actions: []
     has_background: true
     background_color: gray
