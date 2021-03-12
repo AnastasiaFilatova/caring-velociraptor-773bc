@@ -29,6 +29,7 @@ export default class BlogFeedSection extends React.Component {
               )}
               <div className="container container--lg">
                 <div className="flex flex--col-3">
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/PI9lU9jDlE8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                   {_.map(posts_sorted, (post, post_idx) => {
                       let is_post = false;
                       if ((_.get(post, 'frontmatter.template', null) === 'post')) {
