@@ -41,7 +41,7 @@ export default class CtaSection extends React.Component {
                       <p>{_.get(section, 'subtitle', null)}</p>
                     </div>
                     )}
-                    {_.get(feature, 'image', null) && (
+                    {_.get(section, 'image', null) && (
                   <div className={classNames('cell', 'section__media', {'section__media--right': _.get(feature, 'image_position', null) === 'right'})}>
                     <img src={withPrefix(_.get(feature, 'image', null))} alt={_.get(feature, 'image_alt', null)} />
                   </div>
