@@ -53,8 +53,7 @@ export default class Body extends React.Component {
                   </div>
                   )}
                   <div className="section__body cell">
-                    {_.get(feature, 'title', null) && (
-                      _.get(section, 'title', null) ? (
+                    
                       <h3 className="section__title"><div id={_.get(feature, 'title', null)}>{_.get(feature, 'title', null)}</div></h3>
                       ) : 
                       <h2 className="section__title">{_.get(feature, 'title', null)}</h2>
