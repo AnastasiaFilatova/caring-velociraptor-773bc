@@ -50,7 +50,7 @@ export default class Body extends React.Component {
 
                     <div className="container container--lg">
                 
-                <div key={feature_idx} className="section">
+                <div className="section">
                   {_.get(feature, 'image', null) && (
                   <div className={classNames('cell', 'section__media', {'section__media--right': _.get(feature, 'image_position', null) === 'right'})}>
                     <img src={withPrefix(_.get(feature, 'image', null))} alt={_.get(feature, 'image_alt', null)} />
