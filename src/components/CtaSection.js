@@ -1,7 +1,7 @@
 import React from 'react';
 import _ from 'lodash';
 
-import {classNames} from '../utils';
+import {classNames, withPrefix} from '../utils';
 import SectionActions from './SectionActions';
 
 export default class CtaSection extends React.Component {
