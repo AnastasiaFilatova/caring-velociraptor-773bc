@@ -29,7 +29,7 @@ export default class Page extends React.Component {
                 </div>
               </div>
             </article>
-            
+            <h2 class="elementor-heading-title elementor-size-default"><a href="https://www.linkedin.com/in/andreydevyatkin">Certificates</a></h2>
             </Layout>
         );
     }
