@@ -46,8 +46,6 @@ export default {
     CtaSection,
     FeaturesSection,
     Footer,
-    GridItem,
-    GridSection,
     Header,
     HeroSection,
     SectionActions,
