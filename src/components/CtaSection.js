@@ -22,6 +22,7 @@ export default class CtaSection extends React.Component {
                     )}
                     <img src="/images/atlas_copco.png" alt="atlas copco" />
                     <img src="/images/atlas_copco.png" alt="atlas copco" />
+                    <img src="/images/atlas_copco.png" alt="atlas copco" />
                     {_.get(section, 'actions', null) && (
                     <div className="section__actions btn-group">
                       <SectionActions {...this.props} actions={_.get(section, 'actions', null)} />
