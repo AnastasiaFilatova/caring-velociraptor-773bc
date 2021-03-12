@@ -36,11 +36,6 @@ export default class CtaSection extends React.Component {
                     {_.get(section, 'title', null) && (
                     <h2 className="section__title">{_.get(section, 'title', null)}</h2>
                     )}
-                    {_.get(section, 'subtitle', null) && (
-                    <div className="section__copy">
-                      <p>{_.get(section, 'subtitle', null)}</p>
-                    </div>
-                    )}
                     <img src="/images/atlas_copco.png" alt="atlas_copco customer" />
                     <img src="/images/atlas_copco.png" alt="atlas_copco customer" />
                     <img src="/images/atlas_copco.png" alt="atlas_copco customer" /><br />
