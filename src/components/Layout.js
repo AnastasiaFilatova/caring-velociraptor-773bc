@@ -44,23 +44,6 @@ export default class Body extends React.Component {
                   <Header {...this.props} />
                   <main id="content" className="site-content">
                     {this.props.children}
-                    
-
-
-
-                <div className="container container--lg">
-                
-                    <div className="section container">
-                    <div className="cell section__media">
-                        <h2>Hello</h2>
-                    </div>
-                 
-                    <div className="section__body cell">
-                      <h3 className="section__title"><div id="">Title</div></h3>
-                    </div>
-                  </div>
-                  </div>
-
                   </main>
                   <Footer {...this.props} />
                 </div>
