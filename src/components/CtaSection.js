@@ -37,7 +37,7 @@ export default class CtaSection extends React.Component {
                     <h2 className="section__title">Some of the happy customers</h2>
                     
                     <img src="/images/hippo.png" alt="hippo customer" />
-                    <img src="/images/ppraqma.png" alt="praqma customer" />
+                    <img src="/images/praqma.png" alt="praqma customer" />
                     <img src="/images/atlas_copco.png" alt="atlas_copco customer" /><br />
                     <img src="/images/volvo.png" alt="volvo customer" />
                     <img src="/images/ericsson.png" alt="ericsson customer" />
