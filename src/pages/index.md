@@ -145,7 +145,7 @@ sections:
       - label: Learn More
         url: /features
         style: primary
-    has_background: false
+    has_background: true
     background_color: gray
 seo:
   title: Stackbit Starter Theme
