@@ -41,11 +41,7 @@ export default class CtaSection extends React.Component {
                       <p>{_.get(section, 'subtitle', null)}</p>
                     </div>
                     )}
-                    {_.get(section, 'image', null) && (
-                  <div className={classNames('cell', 'section__media', {'section__media--right': _.get(section, 'image_position', null) === 'right'})}>
-                    <img src={withPrefix(_.get(section, 'image', null))} alt={_.get(section, 'image_alt', null)} />
-                  </div>
-                  )}
+                    
                     <img src={withPrefix(_.get(section, 'image', null))} alt={_.get(section, 'image_alt', null)}/>
                     <img src="/images/AWS-SolArchitect-Associate.png" alt="AWS-SolArchitect-Associate certificate" />
                     <img src="/images/AWS-Developer-Associate.png" alt="AWS-Developer-Associate certificate" />
