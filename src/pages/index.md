@@ -141,10 +141,7 @@ sections:
     recent_count: 3
   - type: cta_section
     title: Some of the happy customers
-    actions:
-      - label: Learn More
-        url: /features
-        style: primary
+    actions: []
     has_background: true
     background_color: gray
 seo:
