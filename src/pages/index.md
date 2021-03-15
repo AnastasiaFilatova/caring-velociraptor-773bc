@@ -142,7 +142,7 @@ sections:
   - type: cta_section
     title: Certificates
     actions: []
-    has_background: true
+    has_background: false
     background_color: gray
 seo:
   title: Stackbit Starter Theme
