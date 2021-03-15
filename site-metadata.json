@@ -56,7 +56,7 @@
             {
                 "label": "LinkedIn",
                 "url": "https://www.linkedin.com/",
-                "style": "link",
+                "style": "primary",
                 "new_window": true
             }
         ],
