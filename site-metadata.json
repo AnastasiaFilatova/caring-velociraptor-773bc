@@ -30,7 +30,6 @@
         "nav_links": [
             {
                 "label": "Contact Andrey",
-                "url": "/contact",
                 "style": "link"
             },
             {
