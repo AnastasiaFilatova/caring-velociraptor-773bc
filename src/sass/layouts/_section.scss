@@ -207,7 +207,13 @@
         color: white;
         margin-top: -3.75rem;   
     }
-    
+
+    .fivexl_badge {
+        width: 20%;
+        height: auto;
+        margin-left: 65%;
+        margin-top: 10%;
+    }
 }
 
 @include media-breakpoint-up(md) {
