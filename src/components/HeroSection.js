@@ -35,7 +35,7 @@ export default class HeroSection extends React.Component {
                     </div>
                     )}
                     <div class="separator"></div>
-                    <><>
+                    <>
                   </div>
                 </div>
               </div>
