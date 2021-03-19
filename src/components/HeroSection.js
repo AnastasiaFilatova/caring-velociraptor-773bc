@@ -35,7 +35,7 @@ export default class HeroSection extends React.Component {
                     </div>
                     )}
                     <div class="separator"></div>
-                    <a href="https://fivexl.io"><img src=""></a>
+                    <a href="https://fivexl.io"><img src="" alt=""></a>
                   </div>
                 </div>
               </div>
