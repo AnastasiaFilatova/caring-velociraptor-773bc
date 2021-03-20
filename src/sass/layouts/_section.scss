@@ -204,7 +204,9 @@
 
 @media screen and (max-width:600px) {
     .hero {
-        .section
+        .section__body {
+            padding-top: 26rem;
+        }
         .section__title {
             size: 30px;
         }
