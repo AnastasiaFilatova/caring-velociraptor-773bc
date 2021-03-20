@@ -137,7 +137,19 @@
 }
 
 .section--posts {
+    background-position: center;
+    background-size: cover;
+    background: url("/images/features-bg-extended.jpg") rgba(51, 51, 51, 0.8) no-repeat;
+    background-blend-mode: multiply;
+    color: white;
+    margin-top: -3.75rem;
     
+  .flex {
+    margin-bottom: 3.75rem;
+  }
+  .section__title {
+      color: white;
+  }
 }
 
 .section__copy {
