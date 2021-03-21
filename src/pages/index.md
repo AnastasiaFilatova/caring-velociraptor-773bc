@@ -20,6 +20,7 @@ sections:
       background_image_opacity: 60
       background_image_size: cover
       background_image_repeat: repeat
+      background_image: images/a1-centered.png
   - type: features_section
     title: Features
     features:
