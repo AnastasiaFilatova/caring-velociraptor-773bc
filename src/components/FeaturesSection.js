@@ -73,6 +73,16 @@ export default class FeaturesSection extends React.Component {
                           </div>
                       </div>
                   </div>
+                  <div className="section__body">
+                      <div className="container container-md">
+                          <h3 className="section__title">Certificates</h3>
+                              <img src="/images/AWS-SolArchitect-Associate.png" alt="AWS-SolArchitect-Associate certificate" />
+                              <img src="/images/AWS-Developer-Associate.png" alt="AWS-Developer-Associate certificate" />
+                              <img src="/images/AWS-SysOpAdmin-Associate.png" alt="AWS-SysOpAdmin-Associate certificate" /><br />
+                              <img src="/images/AWS-Security-Specialty.png" alt="AWS-Security-Specialty certificate" />
+                              <img src="/images/Terraform-Associate-Badge.png" alt="Terraform-Associate-Badge png" />                  
+                      </div>
+                  </div>
                      
                 {_.map(_.get(section, 'features', null), (feature, feature_idx) => (
                 <div key={feature_idx} className={classNames('flex', 'flex--middle', 'flex--center', 'flex--col-2', {'align-center': _.get(feature, 'align', null) === 'center', 'align-right': _.get(feature, 'align', null) === 'right'})}>
