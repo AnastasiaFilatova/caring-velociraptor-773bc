@@ -46,7 +46,7 @@ export default class FeaturesSection extends React.Component {
                       </div>
                   </div>
                   <div className="section__body">
-                      <div className="section__body cell">
+                      <div className="container container-md">
                           <h3 className="section__title">Certificates</h3>
                           <div className="section__copy">
                               <img src="/images/AWS-SolArchitect-Associate.png" alt="AWS-SolArchitect-Associate certificate" />
