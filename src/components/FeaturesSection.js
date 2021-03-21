@@ -12,7 +12,7 @@ export default class FeaturesSection extends React.Component {
               <div className="container container--lg">
                   <div className="flex flex--middle flex-center flex-col-2">
                       <div className="cell section__media">
-                          <img src="/images/about-min-768x512.jpg" alt="about" />
+                          <img src="/images/about-bg.jpg" alt="about" />
                       </div>
                        <div className="section__body cell">
                            <h3 className="section__title">About Andrey</h3>
