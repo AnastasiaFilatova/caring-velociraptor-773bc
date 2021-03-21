@@ -18,7 +18,7 @@ export default class FeaturesSection extends React.Component {
                           <h3 className="section__title">About Andrey</h3>
                           <div className="section__copy">
                               <p>Independent consultant specialized in building secure application delivery platforms on AWS using HashiStack and Kubernetes.</p>
-<p>AWS architect (6x certifications)</p>
+                              <p>AWS architect (6x certifications)</p>
 <p>Continuous Integration and Continuous delivery expert</p>
 <p>Trainer (Git, Jenkins, Docker, CI/CD, Terraform, Vault)</p>
 <p>Public speaker</p>
