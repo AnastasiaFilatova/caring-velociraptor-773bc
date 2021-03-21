@@ -2,7 +2,9 @@
  * Site Footer
  */
 .site-footer {
-
+  background-position: center;
+    background-size: cover;
+    background: url("/images/wall-bg.jpg") repeat-y;
   border-top: 1px solid $color-border;
   padding-bottom: 1.5em;
   padding-top: 1.5em;
