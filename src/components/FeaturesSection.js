@@ -12,7 +12,7 @@ export default class FeaturesSection extends React.Component {
               <div className="container container--lg">
                   <div className="flex flex--middle flex-center flex-col-2">
                       <div className="cell section__media">
-                          <img src="/images/about-min-768x512.jpg">
+                          <img src="/images/about-min-768x512.jpg" />
                       </div>
                       </div>
                 {_.map(_.get(section, 'features', null), (feature, feature_idx) => (
