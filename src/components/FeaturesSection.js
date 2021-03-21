@@ -45,6 +45,23 @@ export default class FeaturesSection extends React.Component {
                           <img src="/images/consulting_main-768x515.png" alt="consulting" />
                       </div>
                   </div>
+                  <div className="flex flex--middle flex-center flex-col-2">
+                      <div className="section__body cell">
+                          <h3 className="section__title">Consulting</h3>
+                          <div className="section__copy">
+                              <p>AWS infrastructure architecture - evolving existing or building from the ground up</p>
+                              <p>Immutable Could infrastructure using HashiCorp Packer and HashiCorp Terraform</p>
+                              <p>Orchestrating applications using AWS ECS/Kubernetes/HashiCorp Nomad</p>
+                              <p>Infrastructure and application secret management using HashiCorp Vault</p>
+                              <p>Cloud infrastructure and application security</p>
+                              <p>Compliance in the Cloud environments</p>
+                              <p>Building and scaling Continuous Integration and Continuous Delivery pipelines using Jenkins</p>
+                          </div>
+                      </div>
+                      <div className="cell section__media">
+                          <img src="/images/consulting_main-768x515.png" alt="consulting" />
+                      </div>
+                  </div>
                 
                       
                 {_.map(_.get(section, 'features', null), (feature, feature_idx) => (
