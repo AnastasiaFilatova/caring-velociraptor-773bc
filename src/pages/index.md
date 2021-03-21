@@ -33,7 +33,6 @@ sections:
           [
           ](https://andreydevyatkin.com/#contact)
         align: left
-        image_alt: Feature 3 placeholder image
         image_position: right
         actions: []
   - type: cta_section
