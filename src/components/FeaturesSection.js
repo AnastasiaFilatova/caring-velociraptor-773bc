@@ -29,11 +29,7 @@ export default class FeaturesSection extends React.Component {
                       {markdownify(_.get(feature, 'content', null))}
                     </div>
                     )}
-                    {_.get(feature, 'actions', null) && (
-                    <div className="section__actions btn-group">
-                      <SectionActions {...this.props} actions={_.get(feature, 'actions', null)} />
-                    </div>
-                    )}
+                    
                   </div>
                 </div>
                 ))}
