@@ -20,7 +20,6 @@ export default class HeroSection extends React.Component {
               )}
               <div className="container container--lg">
                 <div className={classNames('flex', 'flex--middle', 'flex--center', 'flex--col-2', {'align-center': _.get(section, 'align', null) === 'center', 'align-right': _.get(section, 'align', null) === 'right'})}>
-                  <div className="cell section__media"></div>
                   <div className="cell section__body">
                     {_.get(section, 'title', null) && (
                     <h1 className="section__title">{_.get(section, 'title', null)}</h1>
