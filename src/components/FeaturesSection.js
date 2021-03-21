@@ -42,7 +42,7 @@ export default class FeaturesSection extends React.Component {
                           </div>
                       </div>
                       <div className="cell section__media">
-                          <img src="/images/about-section-bg.jpg" alt="about" />
+                          <img src="/images/consulting_main-768x515.png" alt="consulting" />
                       </div>
                   </div>
                 
