@@ -23,33 +23,7 @@ sections:
       background_image: images/a1-centered.png
   - type: features_section
     features:
-      - content: >
-          Independent consultant specialized in building secure application
-          delivery platforms on AWS using HashiStack and Kubernetes.
-
-
-          AWS architect (6x certifications)
-
-
-          Continuous Integration and Continuous delivery expert
-
-
-          Trainer (Git, Jenkins, Docker, CI/CD, Terraform, Vault)
-
-
-          Public speaker
-
-
-          [Co-Founder at FivexL. Cloud Engineering
-          Specialists](https://fivexl.io/)
-
-
-          [Co-host at DevSecOps Talks Podcast](https://devsecops.fm/)
-
-
-          Meetups organizer (Cloud Native Las Palmas de Gran Canaria, HashiCorp
-          User Group Las Palmas de Gran Canaria).
-        align: left
+      - align: left
         image: images/about-min-768x512.jpg
         image_alt: About Andrey Devyatkin
         image_position: right
