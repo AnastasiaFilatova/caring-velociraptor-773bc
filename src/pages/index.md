@@ -24,7 +24,6 @@ sections:
   - type: features_section
     features:
       - align: left
-        image: images/about-min-768x512.jpg
         image_position: right
         actions: []
       - content: >
