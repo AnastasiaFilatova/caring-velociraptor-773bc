@@ -29,8 +29,7 @@ sections:
       - align: left
         image_position: left
         actions: []
-      - title: Public speacking
-        content: >
+      - content: >
           Why I do not recommend people learning Ansible? (DevOoops Piter 2020)
 
 
