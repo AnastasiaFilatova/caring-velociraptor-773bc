@@ -84,11 +84,7 @@ sections:
         image: images/consulting_main-768x515.png
         image_alt: Feature 2 placeholder image
         image_position: left
-        actions:
-          - label: Contact
-            url: '#contact'
-            style: secondary
-            new_window: false
+        actions: []
       - title: Presentations
         content: >
           Why I do not recommend people learning Ansible? (DevOoops Piter 2020)
