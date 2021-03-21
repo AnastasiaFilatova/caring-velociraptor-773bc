@@ -63,7 +63,9 @@ export default class FeaturesSection extends React.Component {
                           <h3 className="section__title">Public speaking</h3>
                           <div className="section__copy">
                               <p>Why I do not recommend people learning Ansible? (DevOoops Piter 2020)</p>
-                              <p>AWS architect (6x certifications)</p>
+                              <p>Vault Configuration as Code via Terraform: Stories from Trenches (DevOpsPro Moscow 2019, HashiTalks 2020, DevOpsDays Madrid 2020, DevOpsPro EU 2020, HashiConf Digital EU 2020)
+
+</p>
                               <p>Continuous Integration and Continuous delivery expert</p>
                               <p>Trainer (Git, Jenkins, Docker, CI/CD, Terraform, Vault)</p>
                               <p>Public speaker</p>
