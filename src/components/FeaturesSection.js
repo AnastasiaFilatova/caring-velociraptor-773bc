@@ -62,7 +62,7 @@ export default class FeaturesSection extends React.Component {
                       <div className="section__body cell">
                           <h3 className="section__title">Public speaking</h3>
                           <div className="section__copy">
-                              <p>Independent consultant specialized in building secure application delivery platforms on AWS using HashiStack and Kubernetes.</p>
+                              <p>Why I do not recommend people learning Ansible? (DevOoops Piter 2020)</p>
                               <p>AWS architect (6x certifications)</p>
                               <p>Continuous Integration and Continuous delivery expert</p>
                               <p>Trainer (Git, Jenkins, Docker, CI/CD, Terraform, Vault)</p>
