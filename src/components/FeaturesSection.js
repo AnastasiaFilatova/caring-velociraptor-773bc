@@ -19,7 +19,7 @@ export default class FeaturesSection extends React.Component {
                            <div className="section__copy">
                             <p>Independent consultant specialized in building secure application delivery platforms on AWS using HashiStack and Kubernetes.</p>
                             <p>AWS architect (6x certifications)</p>
-Continuous Integration and Continuous delivery expert
+                            <p>Continuous Integration and Continuous delivery expert
 Trainer (Git, Jenkins, Docker, CI/CD, Terraform, Vault)
 Public speaker
 Co-Founder at FivexL. Cloud Engineering Specialists
