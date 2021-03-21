@@ -27,7 +27,6 @@ sections:
         image_position: right
         actions: []
       - align: left
-        image_alt: Feature 2 placeholder image
         image_position: left
         actions: []
       - title: Public speacking
