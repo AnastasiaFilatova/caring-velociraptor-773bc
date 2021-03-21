@@ -69,7 +69,7 @@ export default class FeaturesSection extends React.Component {
                               <p>Introduction to Continuous Delivery (RemoteForeverSummit 2017)</p>
                               <p>Patterns of Continuous Delivery (Continuous Delivery Conference Stockholm 2017)</p>
                               <p>Jenkins as Code (Day of Jenknis 2017 Oslo, Day of Jenknis 2017 Gothenburg)</p>
-                              <p>Meetups organizer (Cloud Native Las Palmas de Gran Canaria, HashiCorp User Group Las Palmas de Gran Canaria).</p>
+                              <p>Buffer or suffer? Growth pain of Continuous Delivery pipelines and what to do about it (Continuous Delivery Conference Stockholm 2016)</p>
                           </div>
                       </div>
                   </div>
