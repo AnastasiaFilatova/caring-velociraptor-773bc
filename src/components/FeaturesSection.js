@@ -14,7 +14,9 @@ export default class FeaturesSection extends React.Component {
                       <div className="cell section__media">
                           <img src="/images/about-min-768x512.jpg" alt="about" />
                       </div>
-                       <div className="section__body cell"></div>
+                       <div className="section__body cell">
+                           
+                       </div>
                       </div>
                 {_.map(_.get(section, 'features', null), (feature, feature_idx) => (
                 <div key={feature_idx} className={classNames('flex', 'flex--middle', 'flex--center', 'flex--col-2', {'align-center': _.get(feature, 'align', null) === 'center', 'align-right': _.get(feature, 'align', null) === 'right'})}>
