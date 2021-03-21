@@ -85,7 +85,7 @@ sections:
         image_alt: Feature 2 placeholder image
         image_position: left
         actions: []
-      - title: Presentations
+      - title: Public speacking
         content: >
           Why I do not recommend people learning Ansible? (DevOoops Piter 2020)
 
