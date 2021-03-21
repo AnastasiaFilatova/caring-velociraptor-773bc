@@ -72,8 +72,8 @@ export default class FeaturesSection extends React.Component {
                               <p>Buffer or suffer? Growth pain of Continuous Delivery pipelines and what to do about it (Continuous Delivery Conference Stockholm 2016)</p>
                           </div>
                       </div>
-                  </div>
-                      /*
+                  </div> /*
+                     
                 {_.map(_.get(section, 'features', null), (feature, feature_idx) => (
                 <div key={feature_idx} className={classNames('flex', 'flex--middle', 'flex--center', 'flex--col-2', {'align-center': _.get(feature, 'align', null) === 'center', 'align-right': _.get(feature, 'align', null) === 'right'})}>
                   {_.get(feature, 'image', null) && (
