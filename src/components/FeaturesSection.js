@@ -29,26 +29,7 @@ export default class FeaturesSection extends React.Component {
                         </div>
                        </div>
                       </div>
-                      <div className="container container--lg">
-                  <div className="flex flex--middle flex-center flex-col-2">
-                      <div className="cell section__media">
-                          <img src="/images/about-section-bg.jpg" alt="about" />
-                      </div>
-                       <div className="section__body cell">
-                           <h3 className="section__title">About Andrey</h3>
-                           <div className="section__copy">
-                            <p>Independent consultant specialized in building secure application delivery platforms on AWS using HashiStack and Kubernetes.</p>
-                            <p>AWS architect (6x certifications)</p>
-                            <p>Continuous Integration and Continuous delivery expert</p>
-                            <p>Trainer (Git, Jenkins, Docker, CI/CD, Terraform, Vault)</p>
-                            <p>Public speaker</p>
-                            <p>Co-Founder at FivexL. Cloud Engineering Specialists</p>
-                            <p>Co-host at DevSecOps Talks Podcast</p>
-                            <p>Meetups organizer (Cloud Native Las Palmas de Gran Canaria, HashiCorp User Group Las Palmas de Gran Canaria).
-                            </p>
-                        </div>
-                       </div>
-                      </div>
+                      
                 {_.map(_.get(section, 'features', null), (feature, feature_idx) => (
                 <div key={feature_idx} className={classNames('flex', 'flex--middle', 'flex--center', 'flex--col-2', {'align-center': _.get(feature, 'align', null) === 'center', 'align-right': _.get(feature, 'align', null) === 'right'})}>
                   {_.get(feature, 'image', null) && (
