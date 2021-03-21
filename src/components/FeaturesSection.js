@@ -15,7 +15,7 @@ export default class FeaturesSection extends React.Component {
                           <img src="/images/about-min-768x512.jpg" alt="about" />
                       </div>
                        <div className="section__body cell">
-                           <h3 className="section__title"></h3>
+                           <h3 className="section__title">About Andrey</h3>
                        </div>
                       </div>
                 {_.map(_.get(section, 'features', null), (feature, feature_idx) => (
