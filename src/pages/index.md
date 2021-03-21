@@ -124,13 +124,7 @@ sections:
         image: images/public-speaking_main-768x512.jpg
         image_alt: Feature 3 placeholder image
         image_position: right
-        actions:
-          - label: Contact
-            url: '#contact'
-            style: secondary
-            new_window: false
-            no_follow: false
-            type: action
+        actions: []
   - type: blog_feed_section
     title: Public speaking
     show_recent: true
