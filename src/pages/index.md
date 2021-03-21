@@ -56,7 +56,7 @@ sections:
         image_alt: About Andrey Devyatkin
         image_position: right
         actions: []
-      - title: Specialities
+      - title: Consulting
         content: >
           AWS infrastructure architecture - evolving existing or building from
           the ground up
