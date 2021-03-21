@@ -28,7 +28,6 @@ export default class FeaturesSection extends React.Component {
                             </p>
                         </div>
                     </div>
-                    
                 </div>
                       
                 {_.map(_.get(section, 'features', null), (feature, feature_idx) => (
