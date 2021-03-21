@@ -37,7 +37,7 @@ sections:
         actions: []
   - type: cta_section
     actions: []
-    has_background: true
+    has_background: false
     background_color: gray
 seo:
   title: Stackbit Starter Theme
