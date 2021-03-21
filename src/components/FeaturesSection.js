@@ -34,7 +34,9 @@ export default class FeaturesSection extends React.Component {
                           <div className="section__copy">
                               <p>AWS infrastructure architecture - evolving existing or building from the ground up</p>
                               <p>Immutable Could infrastructure using HashiCorp Packer and HashiCorp Terraform</p>
-                              <p>Continuous Integration and Continuous delivery expert</p>
+                              <p>Orchestrating applications using AWS ECS/Kubernetes/HashiCorp Nomad
+
+</p>
                               <p>Trainer (Git, Jenkins, Docker, CI/CD, Terraform, Vault)</p>
                               <p>Public speaker</p>
                               <p>Co-Founder at FivexL. Cloud Engineering Specialists</p>
