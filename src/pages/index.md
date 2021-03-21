@@ -22,7 +22,6 @@ sections:
       background_image_repeat: no-repeat
       background_image: images/a1-centered.png
   - type: features_section
-    title: Features
     features:
       - title: About Andrey
         content: >
