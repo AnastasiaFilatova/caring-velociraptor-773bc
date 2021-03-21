@@ -36,7 +36,6 @@ sections:
         image_position: right
         actions: []
   - type: cta_section
-    title: Certificates
     actions: []
     has_background: false
     background_color: gray
