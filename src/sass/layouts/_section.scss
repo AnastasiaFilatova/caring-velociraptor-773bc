@@ -119,13 +119,13 @@
         margin-top: 10%;
     }
 
-.section--features {
+.section--features, .section--posts {
     background-position: center;
     background-size: cover;
     background: url("/images/wall-bg.jpg") repeat-y;
     margin-top: -3.75rem;
     color: $color-blockquote;
-    
+
   .flex {
     margin-bottom: 3.75rem;
   }
