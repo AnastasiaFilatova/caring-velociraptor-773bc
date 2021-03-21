@@ -22,7 +22,7 @@ export default class FeaturesSection extends React.Component {
                             <p>Continuous Integration and Continuous delivery expert</p>
                             <p>Trainer (Git, Jenkins, Docker, CI/CD, Terraform, Vault)</p>
 <p>Public speaker</p>
-Co-Founder at FivexL. Cloud Engineering Specialists
+<p>Co-Founder at FivexL. Cloud Engineering Specialists
 Co-host at DevSecOps Talks Podcast
 Meetups organizer (Cloud Native Las Palmas de Gran Canaria, HashiCorp User Group Las Palmas de Gran Canaria).
 </p>
