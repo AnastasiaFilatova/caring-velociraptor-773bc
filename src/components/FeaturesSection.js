@@ -36,7 +36,7 @@ export default class FeaturesSection extends React.Component {
                               <p>Immutable Could infrastructure using HashiCorp Packer and HashiCorp Terraform</p>
                               <p>Orchestrating applications using AWS ECS/Kubernetes/HashiCorp Nomad</p>
                               <p>Infrastructure and application secret management using HashiCorp Vault</p>
-                              <p>Public speaker</p>
+                              <p>Cloud infrastructure and application security</p>
                               <p>Co-Founder at FivexL. Cloud Engineering Specialists</p>
                               <p>Co-host at DevSecOps Talks Podcast</p>
                               <p>Meetups organizer (Cloud Native Las Palmas de Gran Canaria, HashiCorp User Group Las Palmas de Gran Canaria).</p>
