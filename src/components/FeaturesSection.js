@@ -14,7 +14,7 @@ export default class FeaturesSection extends React.Component {
                       <div className="cell section__media">
                           <img src="/images/about-section-bg.jpg" alt="about" />
                       </div>
-                       <div className="section__body cell">
+                      <div className="section__body cell">
                            <h3 className="section__title">About Andrey</h3>
                            <div className="section__copy">
                             <p>Independent consultant specialized in building secure application delivery platforms on AWS using HashiStack and Kubernetes.</p>
