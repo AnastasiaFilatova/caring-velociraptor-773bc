@@ -29,9 +29,6 @@ export default class FeaturesSection extends React.Component {
                       </div>
                   </div>
                   <div className="flex flex--middle flex-center flex-col-2">
-                      <div className="cell section__media">
-                          <img src="/images/about-section-bg.jpg" alt="about" />
-                      </div>
                       <div className="section__body cell">
                           <h3 className="section__title">About Andrey</h3>
                           <div className="section__copy">
