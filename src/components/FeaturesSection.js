@@ -45,7 +45,7 @@ export default class FeaturesSection extends React.Component {
                           <img src="/images/consulting_main-768x515.png" alt="consulting" />
                       </div>
                   </div>
-                  <div className="flex flex--middle flex-center flex-col-2">
+                  <div className="">
                       <div className="section__body cell">
                           <h3 className="section__title">Certificates</h3>
                           <div className="section__copy">
