@@ -16,6 +16,7 @@ export default class FeaturesSection extends React.Component {
                       </div>
                        <div className="section__body cell">
                            <h3 className="section__title">About Andrey</h3>
+                           
                        </div>
                       </div>
                 {_.map(_.get(section, 'features', null), (feature, feature_idx) => (
