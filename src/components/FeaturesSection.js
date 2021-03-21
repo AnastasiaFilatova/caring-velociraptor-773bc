@@ -67,7 +67,7 @@ export default class FeaturesSection extends React.Component {
                               <p>Integrating HashiCorp Vault and Kubernetes apps (HashiTalks 2019)</p>
                               <p>Getting Git Right (GitMerge 2018)</p>
                               <p>Introduction to Continuous Delivery (RemoteForeverSummit 2017)</p>
-                              <p>Co-Founder at FivexL. Cloud Engineering Specialists</p>
+                              <p>Patterns of Continuous Delivery (Continuous Delivery Conference Stockholm 2017)</p>
                               <p>Co-host at DevSecOps Talks Podcast</p>
                               <p>Meetups organizer (Cloud Native Las Palmas de Gran Canaria, HashiCorp User Group Las Palmas de Gran Canaria).</p>
                           </div>
