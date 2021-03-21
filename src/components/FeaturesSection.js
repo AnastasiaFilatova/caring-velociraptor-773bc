@@ -39,7 +39,6 @@ export default class FeaturesSection extends React.Component {
                               <p>Cloud infrastructure and application security</p>
                               <p>Compliance in the Cloud environments</p>
                               <p>Building and scaling Continuous Integration and Continuous Delivery pipelines using Jenkins</p>
-                              <p>Meetups organizer (Cloud Native Las Palmas de Gran Canaria, HashiCorp User Group Las Palmas de Gran Canaria).</p>
                           </div>
                       </div>
                       <div className="cell section__media">
