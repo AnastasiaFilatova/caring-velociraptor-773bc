@@ -80,7 +80,7 @@ export default class FeaturesSection extends React.Component {
                         <iframe width="560" height="315" src="https://www.youtube.com/embed/1UJdzpEr3rg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                         <iframe width="560" height="315" src="https://www.youtube.com/embed/hvQeWJSDwkE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                         <iframe width="560" height="315" src="https://www.youtube.com/embed/JpkJDvhXkrE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                </div>
+                      </div>
                   </div>
                      
                 {_.map(_.get(section, 'features', null), (feature, feature_idx) => (
