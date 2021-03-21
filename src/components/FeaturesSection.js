@@ -27,7 +27,7 @@ export default class FeaturesSection extends React.Component {
                               <p>Meetups organizer (Cloud Native Las Palmas de Gran Canaria, HashiCorp User Group Las Palmas de Gran Canaria).</p>
                           </div>
                       </div>
-                </div>
+                  </div>
                 
                       
                 {_.map(_.get(section, 'features', null), (feature, feature_idx) => (
