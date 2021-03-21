@@ -27,8 +27,7 @@ sections:
         image: images/about-min-768x512.jpg
         image_position: right
         actions: []
-      - title: Consulting
-        content: >
+      - content: >
           AWS infrastructure architecture - evolving existing or building from
           the ground up
 
