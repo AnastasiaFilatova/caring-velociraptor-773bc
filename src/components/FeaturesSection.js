@@ -49,13 +49,11 @@ export default class FeaturesSection extends React.Component {
                       <div className="section__body cell">
                           <h3 className="section__title">Certificates</h3>
                           <div className="section__copy">
-                              <p>AWS infrastructure architecture - evolving existing or building from the ground up</p>
-                              <p>Immutable Could infrastructure using HashiCorp Packer and HashiCorp Terraform</p>
-                              <p>Orchestrating applications using AWS ECS/Kubernetes/HashiCorp Nomad</p>
-                              <p>Infrastructure and application secret management using HashiCorp Vault</p>
-                              <p>Cloud infrastructure and application security</p>
-                              <p>Compliance in the Cloud environments</p>
-                              <p>Building and scaling Continuous Integration and Continuous Delivery pipelines using Jenkins</p>
+                              <img src="/images/AWS-SolArchitect-Associate.png" alt="AWS-SolArchitect-Associate certificate" />
+                    <img src="/images/AWS-Developer-Associate.png" alt="AWS-Developer-Associate certificate" />
+                    <img src="/images/AWS-SysOpAdmin-Associate.png" alt="AWS-SysOpAdmin-Associate certificate" /><br />
+                    <img src="/images/AWS-Security-Specialty.png" alt="AWS-Security-Specialty certificate" />
+                    <img src="/images/Terraform-Associate-Badge.png" alt="Terraform-Associate-Badge png" />
                           </div>
                       </div>
                       <div className="cell section__media">
