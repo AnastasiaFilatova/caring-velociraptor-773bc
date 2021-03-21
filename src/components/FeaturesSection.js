@@ -17,7 +17,7 @@ export default class FeaturesSection extends React.Component {
                        <div className="section__body cell">
                            <h3 className="section__title">About Andrey</h3>
                            <div className="section__copy">
-                      <p>hello from Andrey</p>
+                            <p>hello from Andrey</p>
                     </div>
                        </div>
                       </div>
