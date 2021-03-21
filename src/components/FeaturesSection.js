@@ -32,7 +32,7 @@ export default class FeaturesSection extends React.Component {
                       <div className="section__body cell">
                           <h3 className="section__title">Consulting</h3>
                           <div className="section__copy">
-                              <p>Independent consultant specialized in building secure application delivery platforms on AWS using HashiStack and Kubernetes.</p>
+                              <p>AWS infrastructure architecture - evolving existing or building from the ground up.</p>
                               <p>AWS architect (6x certifications)</p>
                               <p>Continuous Integration and Continuous delivery expert</p>
                               <p>Trainer (Git, Jenkins, Docker, CI/CD, Terraform, Vault)</p>
