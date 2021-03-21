@@ -29,7 +29,7 @@ export default class HeroSection extends React.Component {
                       <p>{_.get(section, 'subtitle', null)}</p>
                     </div>
                     )}
-                    <div className="cell section__media"></div>
+                    
                     <div class="separator"></div>
                     <a href="https://fivexl.io" target="_blank"><img src="/images/FXLBADGE-768x887.png" alt="fivexl icon" className="fivexl_badge"/></a>
                     
