@@ -42,6 +42,9 @@ export default class FeaturesSection extends React.Component {
                               <p>Meetups organizer (Cloud Native Las Palmas de Gran Canaria, HashiCorp User Group Las Palmas de Gran Canaria).</p>
                           </div>
                       </div>
+                      <div className="cell section__media">
+                          <img src="/images/about-section-bg.jpg" alt="about" />
+                      </div>
                   </div>
                 
                       
