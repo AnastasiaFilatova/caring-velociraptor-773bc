@@ -30,7 +30,6 @@ export default class HeroSection extends React.Component {
                     </div>
                     )}
                   </div>
-                  <div className="cell section__media"></div>
                 </div>
               </div>
             </section>
