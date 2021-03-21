@@ -38,7 +38,7 @@ export default class FeaturesSection extends React.Component {
                               <p>Infrastructure and application secret management using HashiCorp Vault</p>
                               <p>Cloud infrastructure and application security</p>
                               <p>Compliance in the Cloud environments</p>
-                              <p>Co-host at DevSecOps Talks Podcast</p>
+                              <p>Building and scaling Continuous Integration and Continuous Delivery pipelines using Jenkins</p>
                               <p>Meetups organizer (Cloud Native Las Palmas de Gran Canaria, HashiCorp User Group Las Palmas de Gran Canaria).</p>
                           </div>
                       </div>
