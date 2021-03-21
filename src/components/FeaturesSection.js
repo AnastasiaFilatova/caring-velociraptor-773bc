@@ -66,7 +66,7 @@ export default class FeaturesSection extends React.Component {
                               <p>Vault Configuration as Code via Terraform: Stories from Trenches (DevOpsPro Moscow 2019, HashiTalks 2020, DevOpsDays Madrid 2020, DevOpsPro EU 2020, HashiConf Digital EU 2020)</p>
                               <p>Integrating HashiCorp Vault and Kubernetes apps (HashiTalks 2019)</p>
                               <p>Getting Git Right (GitMerge 2018)</p>
-                              <p>Public speaker</p>
+                              <p>Introduction to Continuous Delivery (RemoteForeverSummit 2017)</p>
                               <p>Co-Founder at FivexL. Cloud Engineering Specialists</p>
                               <p>Co-host at DevSecOps Talks Podcast</p>
                               <p>Meetups organizer (Cloud Native Las Palmas de Gran Canaria, HashiCorp User Group Las Palmas de Gran Canaria).</p>
