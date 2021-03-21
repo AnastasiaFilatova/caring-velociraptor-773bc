@@ -27,7 +27,6 @@ sections:
         image_position: right
         actions: []
       - align: left
-        image: images/consulting_main-768x515.png
         image_alt: Feature 2 placeholder image
         image_position: left
         actions: []
