@@ -32,22 +32,7 @@ export default class CtaSection extends React.Component {
                     )}
                   </div>
 
-                  <div className="container container--md">
-                    
-                    <h2 className="section__title">Some of the happy customers</h2>
-                    
-                    <img src="/images/hippo.png" alt="hippo customer" />
-                    <img src="/images/praqma.png" alt="praqma customer" />
-                    <img src="/images/atlas_copco.png" alt="atlas_copco customer" /><br />
-                    <img src="/images/volvo.png" alt="volvo customer" />
-                    <img src="/images/ericsson.png" alt="ericsson customer" />
-                    
-                    {_.get(section, 'actions', null) && (
-                    <div className="section__actions btn-group">
-                      <SectionActions {...this.props} actions={_.get(section, 'actions', null)} />
-                    </div>
-                    )}
-                  </div>
+                  
                 </div>
               </div>
             </section>
