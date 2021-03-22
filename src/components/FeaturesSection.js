@@ -57,7 +57,7 @@ export default class FeaturesSection extends React.Component {
                   </div>
                   <div className="flex flex--middle flex--center flex--col-2 sb-outline-node">
                       <div className="cell section__media sb-outline-node">
-                          <img src="/images/public-speaking_main-768x512.jpg" alt="public speaking" />
+                          <img src="/images/public-speaking_main-768x512.jpg" alt="public speaking" className="cell section__media sb-outline-node"/>
                       </div>
                       <div className="section__body cell">
                           <h3 className="section__title">Public speaking</h3>
