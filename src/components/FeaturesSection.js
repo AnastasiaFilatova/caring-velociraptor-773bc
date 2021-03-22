@@ -15,7 +15,7 @@ export default class FeaturesSection extends React.Component {
                           <img src="/images/about-section-bg.jpg" alt="about" className="sb-outline-node" />
                       </div>
                       <div className="section__body cell sb-outline-node">
-                          <h2 className="section__title sb-outline-node" id="About ">About Andrey</h2>
+                          <h2 className="section__title sb-outline-node" id="About">About Andrey</h2>
                           <div className="section__copy sb-outline-node">
                               <p>Independent consultant specialized in building secure application delivery platforms on AWS using HashiStack and Kubernetes.</p>
                               <p>AWS architect (6x certifications)</p>
