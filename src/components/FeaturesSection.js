@@ -42,7 +42,7 @@ export default class FeaturesSection extends React.Component {
                           </div>
                       </div>
                       <div className="cell section__media sb-outline-node">
-                          <img src="/images/consulting_main-768x515.png" alt="consulting" />
+                          <img src="/images/consulting_main-768x515.png" alt="consulting" className="sb-outline-node"/>
                       </div>
                   </div>
                   <div className="section__body">
