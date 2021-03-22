@@ -26,6 +26,7 @@ sections:
       - align: left
         image_position: right
         actions: []
+        title: feature 1
       - align: left
         image_position: left
         actions: []
