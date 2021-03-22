@@ -10,7 +10,7 @@ export default class Header extends React.Component {
             <header className="site-header">
               <div className="container container--lg">
                 <nav className="navbar" aria-label="Main Navigation">
-                    <a href="https:five"><img src="/images/Fivexl_trans_badge.png" alt="fivexl theam" className="fivexl-badge"/></a>
+                    <a href="https:fivexl.io"><img src="/images/Fivexl_trans_badge.png" alt="fivexl theam" className="fivexl-badge"/></a>
                   {_.get(this.props, 'pageContext.site.siteMetadata.header.has_nav', null) && (<React.Fragment>
                   <button aria-label="Menu" className="btn btn--icon btn--clear navbar__menu-btn js-nav-toggle">
                     <svg className="icon" width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M3 13h18c0.552 0 1-0.448 1-1s-0.448-1-1-1h-18c-0.552 0-1 0.448-1 1s0.448 1 1 1zM3 7h18c0.552 0 1-0.448 1-1s-0.448-1-1-1h-18c-0.552 0-1 0.448-1 1s0.448 1 1 1zM3 19h18c0.552 0 1-0.448 1-1s-0.448-1-1-1h-18c-0.552 0-1 0.448-1 1s0.448 1 1 1z" /></svg>
