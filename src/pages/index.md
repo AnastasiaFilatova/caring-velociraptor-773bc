@@ -26,9 +26,6 @@ sections:
       - align: left
         image_position: left
         actions: []
-      - align: left
-        image_position: left
-        actions: []
 seo:
   title: Stackbit Starter Theme
   description: The preview of the Starter theme
