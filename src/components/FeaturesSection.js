@@ -45,7 +45,7 @@ export default class FeaturesSection extends React.Component {
                           <img src="/images/consulting_main-768x515.png" alt="consulting" className="sb-outline-node"/>
                       </div>
                   </div>
-                  <div className="section__body cell sb-outline-node">
+                  <div className="section__body cell">
                       <div className="container container-md">
                           <h3 className="section__title sb-outline-node">Certificates</h3>
                               <img src="/images/AWS-SolArchitect-Associate.png" alt="AWS-SolArchitect-Associate certificate" />
