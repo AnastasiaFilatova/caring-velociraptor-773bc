@@ -146,7 +146,13 @@
     border-radius: 3px;
   }
 }
-
+@media (max-width:400px) {
+    .hero {
+        .bg-image__image {
+          background-image: url("/images/iphone-bg.jpg") no-repeat;
+        }
+    }
+}
 
 @include media-breakpoint-up(md) {
   .section__media {
