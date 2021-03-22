@@ -7,7 +7,7 @@ import {htmlToReact} from '../utils';
 export default class Footer extends React.Component {
     render() {
         return (
-            <footer className="site-footer">
+            <footer className="site-footer" id="Contact">
               <div className="container container--lg">
                 {(_.get(this.props, 'pageContext.site.siteMetadata.footer.has_nav', null) || _.get(this.props, 'pageContext.site.siteMetadata.footer.has_social', null)) && (
                 <div className="site-footer__nav">
