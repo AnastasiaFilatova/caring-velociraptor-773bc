@@ -168,20 +168,6 @@
   }
 }
 
-@media screen and (max-width:600px) {
-    .hero {
-        .section__body {
-            padding-top: 26rem;
-        }
-        .section__title {
-            size: 30px;
-        }
-    }
-    .fivexl_badge {
-        width:40%;
-    }
-}
-
 
 @include media-breakpoint-up(md) {
   .section__media {
