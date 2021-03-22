@@ -26,7 +26,6 @@ sections:
       - align: left
         image_position: left
         actions: []
-        image: images/about-section-bg.jpg
       - align: left
         image_position: left
         actions: []
