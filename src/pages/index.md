@@ -29,12 +29,6 @@ sections:
       - align: left
         image_position: left
         actions: []
-      - content: |
-          [
-          ](https://andreydevyatkin.com/#contact)
-        align: left
-        image_position: right
-        actions: []
 seo:
   title: Stackbit Starter Theme
   description: The preview of the Starter theme
