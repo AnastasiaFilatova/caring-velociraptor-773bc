@@ -182,13 +182,6 @@
     }
 }
 
-@media screen and (min-width:1920px) {
-    .hero {
-        .section__body {
-                margin-top: 25%;
-            }
-    }
-}
 
 @include media-breakpoint-up(md) {
   .section__media {
