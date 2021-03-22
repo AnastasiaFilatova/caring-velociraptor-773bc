@@ -55,7 +55,7 @@ export default class FeaturesSection extends React.Component {
                               <img src="/images/Terraform-Associate-Badge.png" alt="Terraform-Associate-Badge png" />                  
                       </div>
                   </div>
-                  <div className="flex flex--middle flex-center flex-col-2">
+                  <div className="flex flex--middle flex--center flex--col-2 sb-outline-node">
                       <div className="cell section__media">
                           <img src="/images/public-speaking_main-768x512.jpg" alt="public speaking" />
                       </div>
