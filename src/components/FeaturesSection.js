@@ -28,7 +28,7 @@ export default class FeaturesSection extends React.Component {
                           </div>
                       </div>
                   </div>
-                  <div className="flex flex--middle flex-center flex-col-2">
+                  <div className="flex flex--middle flex--center flex--col-2 sb-outline-node">
                       <div className="section__body cell">
                           <h3 className="section__title">Consulting</h3>
                           <div className="section__copy">
