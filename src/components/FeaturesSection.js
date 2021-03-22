@@ -59,7 +59,7 @@ export default class FeaturesSection extends React.Component {
                       <div className="cell section__media sb-outline-node">
                           <img src="/images/public-speaking_main-768x512.jpg" alt="public speaking" className="sb-outline-node"/>
                       </div>
-                      <div className="section__body cell sb-outline-node">
+                      <div className="section__body sb-outline-node">
                           <h3 className="section__title sb-outline-node">Public speaking</h3>
                           <div className="section__copy sb-outline-node">
                               <p>Why I do not recommend people learning Ansible? (DevOoops Piter 2020)</p>
