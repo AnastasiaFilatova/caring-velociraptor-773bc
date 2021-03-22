@@ -57,5 +57,6 @@
         "content": "&copy; 2021 Andrey Devyaking Consulting Services OÜ"
     },
     "title": "Stackbit Starter Theme",
-    "domain": "https://caring-velociraptor-773bc.netlify.app"
+    "domain": "https://caring-velociraptor-773bc.netlify.app",
+    "favicon": "images/site_icon1.png"
 }
