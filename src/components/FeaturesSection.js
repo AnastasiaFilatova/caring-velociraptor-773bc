@@ -31,7 +31,7 @@ export default class FeaturesSection extends React.Component {
                   <div className="flex flex--middle flex--center flex--col-2 sb-outline-node">
                       <div className="section__body cell sb-outline-node">
                           <h3 className="section__title sb-outline-node">Consulting</h3>
-                          <div className="section__copy">
+                          <div className="section__copy sb-outline-node">
                               <p>AWS infrastructure architecture - evolving existing or building from the ground up</p>
                               <p>Immutable Could infrastructure using HashiCorp Packer and HashiCorp Terraform</p>
                               <p>Orchestrating applications using AWS ECS/Kubernetes/HashiCorp Nomad</p>
