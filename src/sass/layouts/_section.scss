@@ -159,10 +159,10 @@
 @media (max-width:400px) {
     .hero {
         background-position: center;
-    background-size: cover;
-    background: url("/images/wall-bg-fixed.jpg") repeat-y;
-    margin-top: -3.75rem;
-    color: $color-blockquote;
+        background-size: cover;
+        background: url("/images/wall-bg-fixed.jpg") repeat-y;
+        margin-top: -3.75rem;
+        color: $color-blockquote;
     }
 }
 
