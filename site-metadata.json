@@ -23,7 +23,8 @@
                 "style": "link"
             }
         ],
-        "logo": "images/FiveXL_trans_badge_small.png"
+        "logo": "images/FiveXL_trans_badge_small.png",
+        "logo_alt": "fivexl-theam"
     },
     "footer": {
         "has_nav": true,
