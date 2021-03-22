@@ -23,7 +23,8 @@
                 "url": "#Contact",
                 "style": "link"
             }
-        ]
+        ],
+        "logo": "images/FiveXL_trans_badge_small.png"
     },
     "footer": {
         "has_nav": true,
