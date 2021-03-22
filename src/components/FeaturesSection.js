@@ -41,7 +41,7 @@ export default class FeaturesSection extends React.Component {
                               <p>Building and scaling Continuous Integration and Continuous Delivery pipelines using Jenkins</p>
                           </div>
                       </div>
-                      <div className="cell section__media">
+                      <div className="cell section__media sb-outline-node">
                           <img src="/images/consulting_main-768x515.png" alt="consulting" />
                       </div>
                   </div>
