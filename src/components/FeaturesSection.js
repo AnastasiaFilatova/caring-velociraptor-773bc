@@ -74,7 +74,7 @@ export default class FeaturesSection extends React.Component {
                       </div>
                   </div>
                   <div className="section__body sb-outline-node">
-                      <div className="flex flex--col-3">
+                      <div className="flex flex--center flex--col-3">
                         <iframe width="560" height="315" src="https://www.youtube.com/embed/PI9lU9jDlE8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                         <iframe width="560" height="315" src="https://www.youtube.com/embed/t6ZKhY0-_cA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                         <iframe width="560" height="315" src="https://www.youtube.com/embed/1UJdzpEr3rg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
