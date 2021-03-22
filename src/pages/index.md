@@ -23,7 +23,7 @@ sections:
       background_image: images/a1-centered.png
   - type: features_section
     features:
-      - align: left
+      - align: right
         image_position: left
         actions: []
         title: feature 1
