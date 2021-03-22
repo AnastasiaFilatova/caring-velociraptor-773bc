@@ -10,7 +10,7 @@ export default class FeaturesSection extends React.Component {
         return (
             <section className="section section--features">
               <div className="container container--lg">
-                  <div className="flex flex--middle flex-center flex-col-">
+                  <div className="flex flex--middle flex--center flex--col-2 sb-outline-node">
                       <div className="cell section__media">
                           <img src="/images/about-section-bg.jpg" alt="about" />
                       </div>
