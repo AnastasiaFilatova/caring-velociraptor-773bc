@@ -19,7 +19,7 @@ sections:
       background_image_opacity: 70
       background_image_size: cover
       background_image_repeat: no-repeat
-      background_image: images/hero-bg-optimized.jpg
+      background_image: images/hero-bg.png
     title: ADREY DEVYATKIN
   - type: features_section
     features:
