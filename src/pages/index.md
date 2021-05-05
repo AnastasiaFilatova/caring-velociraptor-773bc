@@ -52,6 +52,7 @@ seo:
       relativeUrl: true
   description: >-
     Independent consultant specialized in building secure application delivery
-    platforms on AWS using HashiStack and Kubernetes. AWS architect. 
+    platforms on AWS using HashiStack and Kubernetes. AWS architect. Public
+    speaker. 
 template: advanced
 ---
