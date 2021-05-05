@@ -1,5 +1,4 @@
 ---
-title: andreydevyatkin.com
 sections:
   - type: hero_section
     subtitle: CI/CD. DevSecOps. Cloud infrastructure.
