@@ -80,4 +80,8 @@
 }
 
 /* Make bg image responsive */
-@media 
+@media (max-width: 480px) {
+    body {
+        background-image: url(images/background-mobile.jpg);
+    }
+}
