@@ -51,8 +51,7 @@ seo:
       value: images/starter-preview.png
       relativeUrl: true
   description: >-
-    Independent consultant specialized in building secure application delivery
-    platforms on AWS using HashiStack, Kubernetes. Public speaker. Co-Founder at
-    FivexL. Cloud Engineering Specialists
+    AWS architect. Public speaker. Co-Founder at FivexL. Cloud Engineering
+    Specialists
 template: advanced
 ---
