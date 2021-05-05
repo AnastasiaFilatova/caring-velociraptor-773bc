@@ -50,5 +50,8 @@ seo:
     - name: 'twitter:image'
       value: images/starter-preview.png
       relativeUrl: true
+  description: >-
+    Independent consultant specialized in building secure application delivery
+    platforms on AWS using HashiStack and Kubernetes.
 template: advanced
 ---
