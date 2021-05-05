@@ -27,7 +27,6 @@ sections:
         actions: []
 seo:
   title: Andrey Devyatkin - CI/CD. DevSecOps. Cloud infrastructure.
-  description: The preview of the Starter theme
   extra:
     - name: 'og:type'
       value: website
