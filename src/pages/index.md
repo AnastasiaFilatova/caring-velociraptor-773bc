@@ -26,7 +26,7 @@ sections:
         image_position: left
         actions: []
 seo:
-  title: Stackbit Starter Theme
+  title: Andrey Devyatkin - CI/CD. DevSecOps. Cloud infrastructure.
   description: The preview of the Starter theme
   extra:
     - name: 'og:type'
