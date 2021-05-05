@@ -51,7 +51,7 @@ seo:
       value: images/starter-preview.png
       relativeUrl: true
   description: >-
-    AWS architect. Public speaker. Co-Founder at FivexL. Cloud Engineering
-    Specialists
+    AWS architect. Trainer (Git, Jenkins, Docker, CI/CD, Terraform, Vault).
+    Public speaker. Co-Founder at FivexL. Cloud Engineering Specialists
 template: advanced
 ---
