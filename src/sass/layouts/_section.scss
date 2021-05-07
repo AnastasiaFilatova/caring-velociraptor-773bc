@@ -158,7 +158,7 @@
     }
 }
 
-@media (max-width: 1024px) {
+@media (min-width: 1025px) {
     .hero {
         .bg-image__image {
             background-image: url("/images/hero-bg-960px.png");
