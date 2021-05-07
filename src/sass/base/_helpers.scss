@@ -78,10 +78,3 @@
 .clear {
   @include clearfix();
 }
-
-/* Make bg image responsive */
-@media (max-width: 480px) {
-    .bg-image__image {
-        background-image: url("/images/hero-bg-mobile.png");
-    }
-}
