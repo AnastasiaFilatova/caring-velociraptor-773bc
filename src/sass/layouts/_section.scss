@@ -143,10 +143,12 @@
 
 /* Make bg image responsive */
 @media (max-width: 480px) {
-    .hero
-    .bg-image__image {
-        background-image: url("/images/hero-bg-mobile.png");
+    .hero {
+        .bg-image__image {
+            background-image: url("/images/hero-bg-mobile.png");
+        }
     }
+    
 }
 
 .section--cta {
