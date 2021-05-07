@@ -38,8 +38,8 @@ export default class HeroSection extends React.Component {
             <div class="bg-image__image"></div>
             <div class="container container--lg">
             <div class="flex flex--middle flex--center flex--col-2 align-center">
-            <div class="cell section__body">
-            <h1 class="section__title">ADREY DEVYATKIN</h1>
+                <div class="cell section__body">
+                    <h1 class="section__title">ADREY DEVYATKIN</h1>
             <div class="section__copy"><p>CI/CD. DevSecOps. Cloud infrastructure.</p></div></div></div></div></section>
 
         );
