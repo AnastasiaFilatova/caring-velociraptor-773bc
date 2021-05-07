@@ -44,7 +44,8 @@ export default class HeroSection extends React.Component {
                         <p>CI/CD. DevSecOps. Cloud infrastructure.</p>
                     </div>
                 </div>
-            </div></div></section>
+            </div>
+            </div></section>
 
         );
     }
