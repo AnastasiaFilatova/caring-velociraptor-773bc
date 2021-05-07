@@ -79,6 +79,9 @@
 .hero {
     .bg-image__image {
         background-image:url('/images/hero-bg.png');
+        opacity:0.7;
+        background-size:cover;
+        background-repeat:no-repeat
     }
     .section__body {
         background-color:white;
